@@ -1,1 +1,1 @@
-# Small-JS-Project
+Add and Unfriend Toggle Button
